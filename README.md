@@ -11,4 +11,4 @@
 
 ## Features
 
-* Reusable Dropdown using flatlist
+* Custom Reusable Dropdown using flatlist
